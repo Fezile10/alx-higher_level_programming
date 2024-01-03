@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 def fizzbuzz():
     for i in range(1, 101):
@@ -10,5 +9,3 @@ def fizzbuzz():
             print("Buzz ", end="")
         else:
             print("{:d} ".format(i), end="")
-
-
