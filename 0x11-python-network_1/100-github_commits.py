@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 """
 script that takes 2 arguments in order to list 10 commits (from the most
